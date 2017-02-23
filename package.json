@@ -1,0 +1,27 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Template Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecaoquochung/template.git"
+  },
+  "keywords": [
+    "Opensource",
+    "template",
+    "management"
+  ],
+  "author": "lehung",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lecaoquochung/template/issues"
+  },
+  "homepage": "https://github.com/lecaoquochung/template#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
